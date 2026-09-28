@@ -10,9 +10,9 @@
 
 | Mục | Nội dung |
 |-----|----------|
-| Họ và tên | (điền họ tên) |
-| Mã học viên | (điền mã học viên) |
-| Repo | (điền link repo K4-L3A-DAY12-HoVaTen-MSSV-CloudServicesAndDeployment) |
+| Họ và tên | Trần Thị Như Ý |
+| Mã học viên | 2A202602372 |
+| Repo | https://github.com/nhuY02/K4-L3A-TranThiNhuY-L3A202602372-CloudServicesAndDeployment.git) |
 
 ## Service
 
